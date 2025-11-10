@@ -1,4 +1,4 @@
-Your vulnerability scanning outputs go here:
+The lab/ folder is where you store your vulnerability scanning outputs:
 
 ✅ Nmap scan results
 ✅ OpenVAS/GVM scan reports
